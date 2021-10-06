@@ -1,11 +1,11 @@
 class Box{
     int length;
-    int breadth;
+    int breadth;// instance variables
     int height;
 
     Box(int l,int b,int h){
         length=l;
-        breadth=b;//instance variables
+        breadth=b;//constructor
         height=h;
     }
 
